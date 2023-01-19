@@ -1,0 +1,13 @@
+package br.com.rbs.catrinaAPI;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CatrinaApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CatrinaApiApplication.class, args);
+	}
+
+}
