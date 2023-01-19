@@ -7,6 +7,6 @@ API Catrina para cadastro e consulta de clientes
 
 # Diagrama de fluxo
 
-!([path/to/file](https://github.com/raphael-berto/catrina/blob/9572d8ea40db095a8229592d3d4703a5131d54c8/img/diagrama.png))
+![alt text](https://github.com/raphael-berto/catrina/blob/9572d8ea40db095a8229592d3d4703a5131d54c8/img/diagrama.png)
 
 
